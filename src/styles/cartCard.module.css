@@ -1,0 +1,31 @@
+.card {
+  display: flex;
+  background-color: white;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.card img {
+  object-fit: contain;
+  max-height: 6.875rem;
+  width: 6.875rem;
+  padding: 10px 20px;
+}
+
+.information {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin: 10px 0;
+}
+
+.price {
+  margin: 5px 0;
+}
+
+.removeButton {
+  margin: 10px 0;
+  max-width: 5rem;
+}

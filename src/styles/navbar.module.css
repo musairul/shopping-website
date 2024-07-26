@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  list-style-type: none;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 10px;
+  margin: 0;
+  background-color: antiquewhite;
+}
+
+.navbar li {
+  cursor: pointer;
+}

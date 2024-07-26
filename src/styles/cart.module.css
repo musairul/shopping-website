@@ -1,0 +1,20 @@
+.cart {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 10px;
+}
+
+.topbar {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid black;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}

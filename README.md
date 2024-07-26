@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +9,3 @@ Currently, two official plugins are available:
 =======
 # shopping-site
 Odin project shopping site made with react, css modules and fakestore API
->>>>>>> b25de7d4f859ec572ed8c554844594dff4eb9686
